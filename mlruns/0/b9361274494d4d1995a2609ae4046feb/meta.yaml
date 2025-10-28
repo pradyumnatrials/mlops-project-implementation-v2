@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GYANA/Desktop/mlops%20project/mlops-project-implementation-v2/mlruns/0/b9361274494d4d1995a2609ae4046feb/artifacts
+end_time: 1761643664497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9361274494d4d1995a2609ae4046feb
+run_name: dashing-gnat-583
+run_uuid: b9361274494d4d1995a2609ae4046feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761643656328
+status: 3
+tags: []
+user_id: GYANA
